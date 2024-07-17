@@ -4,8 +4,8 @@ A continuación, se detallan las partes principales del proyecto:
 
 ## Parte 1: Creación de la Entidad y el Repositorio
 
-1. **Entidad `Producto`**:
-   - Se creó una clase llamada `Producto` en el paquete `model`.
+1. **Entidad `producto`**:
+   - Se creó una clase llamada `producto` en el paquete `model`.
    - Esta clase representa los productos disponibles en la tienda.
 
 ![image](https://github.com/user-attachments/assets/c2a8147f-b6f7-4691-90ac-e2d9ba2a8dd2)
